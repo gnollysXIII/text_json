@@ -1,13 +1,6 @@
 {
-  "posts" [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile" {
-    "name":"GNollys",
-	"where":"QuangNgai",
-	"link":"https://www.facebook.com/XIII.95/"
-  }
+    "ten":"long",
+   "ho":"ly",
+   "link":"https://www.facebook.com/XIII.95/",
+   "que_quan":"quang ngai"
 }
